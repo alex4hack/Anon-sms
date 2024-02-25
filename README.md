@@ -1,4 +1,8 @@
-# Anon-sms
+# hack-showimg
 join telegram group
+$ apt install cmatrix
 
-https://t.me/alex4hack
+Type "cmatrix" to start matrix effect
+
+$ cmatrix
+
